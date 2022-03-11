@@ -1,4 +1,4 @@
-package com.example.webcrawler.application;
+package com.example.webcrawler.application.crawler;
 
 public interface Crawler {
     String getDataFromUrl(String url);

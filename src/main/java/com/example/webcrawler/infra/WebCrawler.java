@@ -1,5 +1,6 @@
-package com.example.webcrawler.application;
+package com.example.webcrawler.infra;
 
+import com.example.webcrawler.application.crawler.Crawler;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.springframework.stereotype.Component;
