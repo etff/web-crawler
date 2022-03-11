@@ -1,5 +1,6 @@
-package com.example.webcrawler.application.formtter;
+package com.example.webcrawler.application.formatter;
 
+import com.example.webcrawler.application.formtter.TextOrder;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
