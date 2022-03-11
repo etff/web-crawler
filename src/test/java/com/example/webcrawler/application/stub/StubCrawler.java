@@ -1,4 +1,4 @@
-package com.example.webcrawler.application;
+package com.example.webcrawler.application.stub;
 
 import com.example.webcrawler.application.crawler.Crawler;
 
