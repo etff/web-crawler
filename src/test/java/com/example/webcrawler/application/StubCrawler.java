@@ -1,5 +1,7 @@
 package com.example.webcrawler.application;
 
+import com.example.webcrawler.application.crawler.Crawler;
+
 public class StubCrawler implements Crawler {
 
     @Override
