@@ -1,4 +1,4 @@
-package com.example.webcrawler.global.utils;
+package com.example.webcrawler.application.formatter;
 
 import com.example.webcrawler.application.formtter.TextFormatter;
 import com.example.webcrawler.dto.CrawlerResponse;
